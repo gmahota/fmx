@@ -1,8 +1,8 @@
 <template>
   <section id="hero">
     <v-img
-      :min-height="minHeight"
-      :src="require('@/assets/images/slide05.jpg')"
+      
+      :src="require('@/assets/images/slide03.jpg')"
       class="white--text"
       gradient="to right, rgba(5, 11, 31, .8), rgba(5, 11, 31, .8)"
     >
