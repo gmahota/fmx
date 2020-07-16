@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
