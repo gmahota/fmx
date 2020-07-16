@@ -1,0 +1,22 @@
+{
+  "name": "antf",
+  "version": "1.0.0",
+  "description": "My magnificent Nuxt.js project",
+  "author": "Guimarães Mahota",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.9",
+    "@vuetify/vue-cli-plugin-preset-base": "^0.3.2",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "lodash": "^4.17.15"
+  }
+}
