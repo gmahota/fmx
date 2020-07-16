@@ -1,6 +1,7 @@
 <template>
   <div>
     <hero />
+    <about />
     <theme-features />
     <features />
     <contact-us />
@@ -21,6 +22,7 @@ export default {
   layout: "home",
   components: {
     Hero: () => import("@/components/sections/Hero"),
+    About: () => import("@/components/sections/About"),
     ThemeFeatures: () => import("@/components/sections/ThemeFeatures"),
     ContactUs: () => import("@/components/sections/ContactUs"),
     Affiliates: () => import("@/components/sections/Affiliates"),

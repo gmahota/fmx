@@ -15,14 +15,14 @@
       shaped
     >
       <v-list-item
-        v-for="name in items"
-        :key="name"
-        :to="{ name }"
-        :exact="name === 'Antf'"
+        v-for="item in items"
+        :key="item.title"
+        :to="item.link"
+        :exact="item.title === 'FMX'"
         color="primary"
       >
         <v-list-item-content>
-          <v-list-item-title v-text="name" />
+          <v-list-item-title v-text="item.title" />
         </v-list-item-content>
       </v-list-item>
     </v-list>
