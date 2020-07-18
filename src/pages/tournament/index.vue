@@ -151,12 +151,7 @@ export default {
     },
     editItem(value) {},
     deleteItem(value) {},
-    reportUrl(value) {
-      console.log(`${value.src}`);
-      return require(`@/assets/documentos/${value.src}`);
-    },
-
-    close() {
+        close() {
       this.dialog = false;
 
       //Reset form
