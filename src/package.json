@@ -13,7 +13,8 @@
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.9",
     "@vuetify/vue-cli-plugin-preset-base": "^0.3.2",
-    "nuxt": "^2.13.0"
+    "nuxt": "^2.13.0",
+    "vue-excel-xlsx": "^1.0.11"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",

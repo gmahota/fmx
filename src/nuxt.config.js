@@ -30,7 +30,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { src:'~/plugins/base', mode: "client"}
+    { src:'~/plugins/base', mode: "client"},
+    { src: "~/plugins/excel-xlsx", mode: "client"}
   ],
   /*
   ** Nuxt.js dev-modules

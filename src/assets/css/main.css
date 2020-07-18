@@ -709,7 +709,7 @@ legend {
 	color: #e7c900 !important;
 }
 
-input[type="text"],
+/* input[type="text"],
 input[type="email"],
 input[type="url"],
 input[type="password"],
@@ -729,7 +729,7 @@ select,
 	line-height: 30px;
 	padding: 9px 25px;
 	width: 100%;
-}
+} */
 
 input[disabled] {
 	cursor: not-allowed;
