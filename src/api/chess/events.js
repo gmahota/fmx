@@ -376,6 +376,48 @@ const Events =[
         "notes": "Torneio de alto nivel de competição, com participação de varíos Grandes Mestres"
     },
     {
+        "name": "2018 Eswatini Open Women Section",
+        "date":"2018-12-02",
+        "year": 2018,
+        "category": [
+            "Open",
+            "Femininos"
+        ],
+        "organizer": "Eswatini",
+        "country": "Eswatini",
+        "location":"Mountain Inn, Mbabane",
+        "Reports": [
+            {
+                "name": "Classificação Final",
+                "src": "2018/2018.Open.EswatiniOpenWomenSection.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr392352.aspx?lan=1&art=0&flag=30",
+        "totalPlayers": 14,
+        "notes": "Participamos com 2 atletas femininos, que ficaram em 1 e 2 lugar"
+    },
+    {
+        "name": "2018 Eswatini Open Open Section",
+        "date":"2018-12-02",
+        "year": 2018,
+        "category": [
+            "Open",
+            "Seniores"
+        ],
+        "organizer": "Eswatini",
+        "country": "Eswatini",
+        "location":"Mountain Inn, Mbabane",
+        "Reports": [
+            {
+                "name": "Classificação Final",
+                "src": "2018/2018.Open.EswatiniOpenSection.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr392348.aspx?lan=1&art=4&flag=30",
+        "totalPlayers": 54,
+        "notes": "Paricipamos com 7 atletas masculinos, o Donaldo ficou em 2 lugar"
+    },
+    {
         "name": "OLIMPIADAS DE XADREZ-GEÓRGIA Batumi 2018",
         "date":"2018-10-05",
         "year": 2018,
@@ -521,7 +563,7 @@ const Events =[
     },
     {
         "name": "Campeonato Regional Norte Senior Masculino",
-        "date":"2018-06-",
+        "date":"2018-06-01",
         "year": 2018,
         "category": [
             "Seniores",
@@ -806,6 +848,50 @@ const Events =[
         "notes": ""
     },
     {
+        "name": "4th Eswatini Chess Open Open Section",
+        "date":"2019-12-01",
+        "year": 2019,
+        "category": [
+            "Open",
+            "Femininos",
+            "Juvenil"
+        ],
+        "organizer": "Eswatini",
+        "country": "Eswatini",
+        "location":"Mountain Inn, Mbabane",
+        "Reports": [
+            {
+                "name": "Classificação Final",
+                "src": "2019/2019.Open.EswatiniChessOpenSection.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr412678.aspx?lan=1&art=1&turdet=YES",
+        "totalPlayers": 44,
+        "notes": "Paricipamos com 3 atletas, 1 Juvenil e 2 femininos"
+    },
+    {
+        "name": "Eswatini Chess Open Prestige Section",
+        "date":"2019-12-01",
+        "year": 2019,
+        "category": [
+            "Open",
+            "Femininos",
+            "Juvenil"
+        ],
+        "organizer": "Eswatini",
+        "country": "Eswatini",
+        "location":"Mountain Inn, Mbabane",
+        "Reports": [
+            {
+                "name": "Classificação Final",
+                "src": "2019/2019.Open.EswatiniChessOpenPrestige.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr492652.aspx?lan=1&art=4&flag=30",
+        "totalPlayers": 22,
+        "notes": "Paricipamos com 4 atletas masculinos, 2 seniores e 2 juvenis"
+    },
+    {
         "name": "Campeonato Nacional Liga B",
         "date":"2020-03-19",
         "year": 2020,
@@ -826,6 +912,75 @@ const Events =[
         ],
         "chessResults": "https://chess-results.com/tnr525472.aspx?lan=1&art=1&turdet=YES",
         "totalPlayers": 9,
+        "notes": ""
+    },
+    {
+        "name": "Campeonato Nacional Juvenil",
+        "date":"2018-12-15",
+        "year": 2018,
+        "category": [
+            "Juvenil"
+        ],
+        "organizer": "FMX",
+        "country": "Moçambique (Moz)",
+        "location":"Beira - Sofala",
+        "director":"FA Mateus Viageiro",
+        "chiefArbiter": "IA Antonio Alberto Malaige",
+        "arbiter": ["Edson Taremba","Paulino Amoda"],
+        "Reports": [
+            {
+                "name": "Relatorio",
+                "src": "2018/2018.Nacional.SeniorMasculinoLigaB.Relatorio.pdf"
+            },
+            {
+                "name": "Classificação Final",
+                "src": "2018/2018.Nacional.Juvenil.FinalRaking.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr400677.aspx?lan=1&art=4",
+        "totalPlayers": 10,
+        "notes": ""
+    },
+    {
+        "name": "2019 Zone 4.3 Chess Championship (Open)",
+        "date":"2019-05-04",
+        "year": 2019,
+        "category": [
+            "Seniores"
+        ],
+        "organizer": "FMJE",
+        "country": "Madagascar ( MAD )",
+        "location":"La Villa Verte, Antananarivo",
+        "Reports": [
+            {
+                "name": "Relatorio",
+                "src": "2019/2019.Zone4.3.ChessChampionship.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr435736.aspx?lan=1&art=4&turdet=YES",
+        "totalPlayers": 16,
+        "notes": ""
+    }
+    ,
+    {
+        "name": "International Chess Tournament - Luanda - SADC",
+        "date":"2019-11-11",
+        "year": 2019,
+        "category": [
+            "Seniores",
+            "Internacional"
+        ],
+        "organizer": "Academia de Xadrez Tubarõeszinhos",
+        "country": "Angola ( ANG )",
+        "location":"Hotel Tropicana - Luanda",
+        "Reports": [
+            {
+                "name": "Relatorio",
+                "src": "2019/2019.International.Chess TournamentLuandaSADC.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr435736.aspx?lan=1&art=4&turdet=YES",
+        "totalPlayers": 10,
         "notes": ""
     }
 ];
