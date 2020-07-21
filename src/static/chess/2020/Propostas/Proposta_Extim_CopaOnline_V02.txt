@@ -1,0 +1,66 @@
+- 10,5,3
+-
+- masc - 16 (video-tras), jun - 16, fem - 10 
+Sistema suiço 9 -jogos 
+(2 jogos dias) - domingo
+
+1. Escopo
+1.1. O torneio será realiazado usando as regras da FIDE - Federação Internacional de Xadrez, em 3 fases nomeadamente: 
+    Provincial, primeira eliminatória, segunda eliminatória e fase final;
+1.2 Nos Seniores Masculinos podem participar jogadores de ambos sexos e sem limitações de idade.
+1.3 Nos Seniores Femininos podem participar jogadores do sexo feminino e sem limitações de idade.
+1.4 No Sub-16 Masculino podem participar jogadores de ambos os sexos nascidos até o ano de 2004.
+
+2. Formato
+2.1. Fase Provincial
+2.1.1. Será organizado pela Associação Provincial sobre supervição da Federação.
+2.1.2. O tempo de jogo será de 3 min com o incremento de 2 segundos por cada movimento. 
+2.1.3. As partidas deverão ser feitas na plataforma previamente anunciada e acordada com a Federação 
+2.1.3. O torneio irá apurar 10 jogadores Séniores e Sub-16 Masculinos e 5 Jogadoras Séniores Femininos.
+2.1.4. A Associação Provincial deverá enviar até as 15 horas do dia seguinte ao termino da prova o relatorio tecnico e os jogadores apurados.
+2.1.5. A Associação irá indicar 4 Arbitros/Comentadores para canditarem-se para fazerem parte da equioa de transmissão das lives e arbitragem das proximas fases.
+
+2.2. 3ª Divisão - Primeira Eliminatória 
+2.2.1 Será organizado pela Federação.
+2.2.3 A Federação deverá indicar os 2 comentadores para a transmissão da live.
+2.2.4 O tempo de jogo será de 3 min com o incremento de 2 segundos por cada movimento.
+
+2.2.5.1 Seniores 3 Sub-16  Masculinos
+2.2.5.1.1 A 3ª Devisão é composta por 5 grupos de jogadores vindo da fase provincial.
+2.2.5.1.2 A distribuição dos atletas nos grupos será feito de forma automatica, tentando o maximo possivel espalhar os atletas da mesma provincia.
+2.2.5.1.3 A Federação deverá indicar 5 arbitros acompanhar cada grupo.
+
+2.2.5.2 Seniores Femininos
+2.2.5.2.1 A 3ª Devisão é composta por 3 grupos de jogadores vindo da fase provincial.
+2.2.5.2.2 A distribuição dos atletas nos grupos será feito de forma automatica, tentando o maximo possivel espalhar os atletas da mesma provincia.
+2.2.5.2.3 A Federação deverá indicar 3 arbitros acompanhar cada grupo.
+
+2.3. 2ª Divisão - Segunda Eliminatória 
+2.3.1 Será organizado pela Federação.
+2.3.2 A Federação deverá indicar os 2 arbitros do torneio
+2.3.3 A Federação deverá indicar os 2 comentadores para a transmissão da live
+2.3.4 O tempo de jogo será de 3 min com o incremento de 2 segundos por cada movimento.
+
+2.3.5.1 Seniores Masculinos e Sub-16 Masculinos
+2.3.5.1.1 A 2ª Devisão será um torneio composto por 5 jogadores apurados por grupo da 3ª Divisão.
+2.3.5.1.2 A Os primeiros 10 classificados ficaram apurados a fase final.
+2.3.5.1.3 A Federação deverá indicar 2 arbitros acompanhar para acompanhar o Sub-16 e Masculinos.
+
+2.3.5.2 Seniores Femininos
+2.3.5.2.1 A 2ª Devisão será um torneio composto por 5 jogadoras apurados por grupo da 3ª Divisão.
+2.3.5.2.2 A Os primeiros 5 classificados ficaram apurados a fase final.
+2.3.5.2.3 A Federação deverá indicar 1 arbitros.
+
+2.4. Fase Final
+2.4.1 Será organizado pela Federação.
+2.4.2 A Federação deverá indicar os 2 arbitros do torneio
+2.4.3 A Federação deverá indicar os 2 comentadores para a transmissão da live
+2.4.4 O tempo de jogo será de 15 min com o incremento de 30 segundos por cada movimento.
+2.4.5 A fase final deve obedecer critério de vídeo-imagem, o jogador tem apresentar a cara enquanto joga e os resultados serão apresentados no  www.chess-results.com;
+2.4.6 Será usado o sitema suiço para o emparceiramento de 9 jornadas,
+2.4.7 Não será permitido empate antes de trinta movimentos do jogo;
+2.4.8 Em caso de empate na pontuação o sistema de desempate será baseado desempate de 3 partidas rápidas de 5 min
+2.4.9 Quem Pode Participar
+2.4.9.1 Jogadores com titulos nacionais ou internacionais
+2.4.9.2 Jogadores apurados vindos da 2ª divisão
+2.4.9.3 Os primeiros 6 classificados do ultimo Nacional.

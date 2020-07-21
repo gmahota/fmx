@@ -1,0 +1,111 @@
+Introdução ao Xadrez Online
+
+1. Introdução
+    O Xadrez é conhecido como um jogo intelectual há cerca de 1.500 anos, 
+    era considerado como um jogo dos nobres, sendo imprenscindível para a 
+    formação cavalheiresca. A partir do torneio de Londres de 1851, passou a ser considerado como um desporto.
+
+    O Xadrez passou por uma evolução mundial, antigamente era um desporto dominado na sua maioria por jogadores de paises da Euroupa de Norte mais concretamente ex-União Sovietica. Grandes jogadores que é o caso de Boby Ficher (americano que é considerado por muitos como um dos melhores atletas de todos os tempos) foram obrigados a mudar para a Russia para poder jogar e evoluir o seu Xadrez.
+
+    O que o xadrez tem haver com a revolução Revolução Industrial 3.0? 
+
+    A Revolução Industrial 3.0, é caracterizada pela automização de processos. 
+
+    O jogo de xadrez é feita em 3 grandes (abertura, meio-jogo e finais). Cada area tem as suas proprias regras, traduzindo em palavras cada movimento feito no jogo leva a um infinito de possibilidades.
+    Sendo assim é necessario que o programa de xadrez tenha um lado humano para conseguir superar a um Grande Mestre.
+    
+    Boby Fischer vs (Maquina e Homem)
+    Em o talentoso jogador Boby Ficher enfrentou um falso computador, anos mais tardes descubriu-se que o computador era assessorado por grande mestres da altura
+    
+    Garry Kasparov(Homem) vs Deep Blue (Maquina)
+    Garry Kasparav um dos maiores prodigios que o xadrez já conheceu, sendo o 7º homem mais inteligente do mundo com o QI de 172,
+    enfrentou pela primeira vez um computador a serio em 1996 venceu por 4/2 e em 1997 perdeu 3.5/2.5
+    Foi um registro historico para o mundo, o primeiro computador que podia vencer um humano. 
+
+    Passados 23 anos os computadores(robot - engine) são vencem aos jogadores mais fortes com menos uma peça de valor.
+    
+    https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov
+
+    Stockfish (Maquina) vs Alpha Zero (Maquina)
+    StockFich até o momento erá o maquina mais forte, ele continha uma velocidade de processamento muito boa e base de dados de partidas antigas.
+    Alpha Zero nasceu de um projeto da Google para o estudo dos neuronios, a maquina foi ensinada a jogar Xadrez como os humanos aprendem (e antigamente era muito usado),
+       Ele aprendeu somente as regras do jogo e fez partidas com ele mesmo, com base nessa experiencia que adqueriu em , desafiou o StockFish e venceu, 
+       mostrando ao mundo que os engines apesar de estarem longe da capacidade do cerebro humano de apartir de sentimentos e experiencias vividas terem a capacidade de tomar decisão, eles estão a evoluir em grandes passos.  
+
+    Parceria Humano, Maquina
+    
+    Analise de Partidas
+    Quando iniciei a jogar xadrez na altura tinhamos de aquerir 2 ferramentas Fritz e Livros de xadrez.
+
+    O Fritz era o engine que estava na moda ajudava a analisar as minhas partidas, ver os lances errados. Assim que terminava uma partida oficial era obrigatorio colocar no Fritz para ele analisar cada lance e dar as suas sugestões. E permitiu-me evoluir e vencer alguns campeonatos na altura.
+    
+    Grandes jogadores tem grandes maquinas por de traz o proprio campeão mundial (Magnus Carlsen) é a prova viva disso. Passou a infancia a jogar contra computadores, e ele é considerado um dos 3 melhores jogadores de finais (onde exige uma grande precisão de calculo e as maquinas são 100% superior a qualquer humano).
+
+    Estudo de Aberturas
+    A abertura é um dos pontos fracos dos engines, para poderem fazer a avalição eles se baseam nas estaticas de resultados de jogos anteriores. Rapidamente com um engine podemos ver quais são os lançes mais jogados ou que já foram jogados no passado e preparar melhor o reportorio de aberturas.
+    Em softwares como Fritz é possivel navegar sobre essas partidas e ver jogos de outros jogadores mais fortes.
+    
+    Estudo de Meio-jogo
+    Sendo aqui um dos pontos fracos no que consisite a estrategia de jogo.
+    Estrategia(quando não se sabe o que fazer ou não existem lançes claros de vitoria, tem de se seguir um plano que pode ser ou não vitorioso), 
+        a casos de partidas em que estreguicamente podemos estar perdidos e o sistema avaliar como empate, devido ao infinito de possibilidades, 
+        que um jogador (Grande Mestre),
+        conseque ler a partida e executar um plano com base em jogos e posições do passado.
+    Tatica(existem lançes claros de vitoria) aqui o engine é 100% eficiente, e pode ajudar na analise da partida.
+
+    Estudo de finais
+    Tal como na fisica, existiam muitas finais sem solução clara, quem ganha e como se ganha. Com o apoio da Maquina essas finais foram resolvidas.
+
+    Garry Kasparov foi treinador do actual campeão mundial, apóz ter enfrentado ele com 12 anos, apostou no Norougues.
+    Uma das coisas interessantes que Kasparav não só passou o seu legado como jogador como também todo o seu engine (material digital). Conta a lenda que os russos, tem uma forma diferente de treino desenvolvido por um dos seus grandes treinadores e isso tudo foi colocado dentro dos engines.
+    A parceria homem, maquina faz com que hoje em dia temos jogadores que com 14 anos são mais fortes que o Boby Fischer (considerado o melhor jogador de todos os tempos) no auje da sua carreira
+
+    Russia no Xadrez
+    Russia era como Israel para os cristões, meca para os muçulmanos... Era lá onde tudo acontecia, os melhores jogadores era da Russia ou da região.
+
+    Para ser Campeão Mundial não bastava só ter talento, tinha de viver na Russia, algo que o Boby Fischer teve de fazer e pagou carro a fatura, devido a Guerra Fria ele como americano foi acusado e espulso dos Estados Unidos.
+    Mesmo sendo Campeão Mundial e um dos maiores icones nunca foi aceito de volta, e foi acolhido pelo pais que lhe deu a nascionalidade, foi la onde foi sepuldado.(Um dos meus alvos é ir conhecer o locar)
+
+    Com a revolução da internet paises como India, China, Estados Unidos tornaram-se junto a Russia potencias de Xadrez, as ultimas olimpiadas a Russia não consegue vencer. Apos a saida de Kasparov o ex-campeão Mundial Kraminick tambem aluno de Kasparov não conseguiu aguentar a pressão de jogadores de outros paises.
+    Sendo praticamente ele o ultimo das jogador das ferras Russas a ser campeão mundial ele acabou por abandonar o Xadrez no ano passado, ainda em idade para jogar.
+
+
+    Revolução Industrial 4.0
+
+    A Revolução Industrial 4.0, é caracterizada pela comunicação maquina a maquina. 
+
+    Xadrez Online
+    O nascimento do xadrez online, vem de muitos anos atraz antes mesmo da existencia da internet era jogado por correspondencia, era jogos que levavam muito tempo a ser jogado.
+    Com a evolução da internet xadrez começou a migrar para as plataformas online, onde jogadores de varios países se enfrentavam
+    Em 2007 fazia parte do chessbase.com e um dos probelams que enfrentavam-mos eram as falhas de conexões e net lenta..
+    Hoje em dia esse problema já esta quase mitigado, com a evolução dos sockect's(abertura de canal de comunicação directa entre os adversarios), tens as partidas mais rapidas em com pouco risco de quebra de net,
+    provoca o maior uso das plataformas online, aqui em Moçambique os mais usados são Chess.com e Lichess.com 
+
+    Alem das partidas online tem outra vantagem poder fazer treinos, analise, acompanhar partidas de jogadores mais fortes. Só não evolui quem não quer ou quem não tem tempo.
+
+    Xadrez Online e Lives
+
+    Com a situação da Covid 19, temos muita gente obrigada a estar em casa. Consequente podemos ter muitos professores de xadrez e altetas em casa e disponiveis para criar uma comunidade.
+
+    Essa comunidade pode ser para melhorar os jogadores alta competição como também massificar a modalidade.
+
+    Acompanhando alguns lives de jogadores de fora, o xadrez tem crescido bastante em número de novos atletas. 
+    
+    Sendo agora um perido de confinamento é o melhor periodo para ensinar-mos o xadrez. 
+
+    O Xadrez em Moçambique precisa de adapar a esta nova realidade e apoiar a quem não tem nenhuma ocupação ou deseja adquerir conhecimento, penso que seja uma boa opurtunidade para entrar-mos nesta aventura.
+
+    #Xeque_MateAoCovid19
+
+
+    
+
+
+
+
+
+
+
+    
+    2.	Objectivos
+1.	Proporcionar à família moçambicana de xadrez uma oportunidade de intercâmbio a mais alto nível, que possibilite na cultura de protecção contra a covid-19 e proteção contra danos quer em casa quer no local de trabalho no Combate a incêndio, Proteção de pessoa e Segurança Eletrônica 

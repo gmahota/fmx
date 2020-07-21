@@ -4,7 +4,8 @@ const Events =[
         "year": 2017,
         "Category": [
             "Sub-16",
-            "Mundial"
+            "Mundial",
+            "Massificação"
         ],
         "organizer": "FMX",
         "country": "Moçambique",
@@ -57,7 +58,8 @@ const Events =[
         "date":"2017-08-09",
         "category": [
             "Sub 16",
-            "Internacional"
+            "Internacional",
+            "Massificação"
         ],
         "organizer": "FMX",
         "country": "Moçambique (Moz)",
@@ -470,7 +472,8 @@ const Events =[
         "year": 2018,
         "category": [
             "Infantil",
-            "Feminino"
+            "Feminino",
+            "Massificação"
         ],
         "organizer": "FMX",
         "country": "Moçambique (Moz)",
@@ -498,7 +501,8 @@ const Events =[
         "year": 2018,
         "category": [
             "Infantil",
-            "Masculino"
+            "Masculino",
+            "Massificação"
         ],
         "organizer": "FMX",
         "country": "Moçambique (Moz)",
