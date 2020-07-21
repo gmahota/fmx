@@ -334,6 +334,27 @@ const Events =[
         "notes": "Moçambique participou com 5 atletas sendo 1 feminia e 4 infanto-juvenil, tendo adquerido rodagem nacional e rating internacional"
     },
     {
+        "name": "2018 Boardwalk Pearson Open ( IM Norm)",
+        "date":"2018-03-18",
+        "year": 2018,
+        "category": [
+            "Internacional"
+            
+        ],
+        "organizer": "South Africa ( RSA )",
+        "country": "South Africa ( RSA )",
+        "location":"The Boardwalk Casino & Entertainment World, Port Elizabeth",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Open.BoardwalkPearsonOpen.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr331363.aspx?lan=1&art=1&turdet=YES&flag=30",
+        "totalPlayers": 10,
+        "notes": ""
+    },
+    {
         "name": "2018 Capablanca RR B",
         "date":"2018-05-01",
         "year": 2018,
