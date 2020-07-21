@@ -355,6 +355,56 @@ const Events =[
         "notes": ""
     },
     {
+        "name": "Commonwealth Chess Championships 2018 OPEN",
+        "date":"2018-07-03",
+        "year": 2018,
+        "category": [
+            "Internacional"
+            
+        ],
+        "organizer": "India ( IND )",
+        "country": "India ( IND )",
+        "location":"The Leela Ambience Convention Hotel, Maharaja Surajmal Marg, Delhi-32, INDIA",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Commonwealth.CommonwealthChessChampionships.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr400236.aspx?lan=1&art=1&turdet=YES",
+        "totalPlayers": 150,
+        "notes": "Torneio de alto nivel de competição, com participação de varíos Grandes Mestres"
+    },
+    {
+        "name": "OLIMPIADAS DE XADREZ-GEÓRGIA Batumi 2018",
+        "date":"2018-10-05",
+        "year": 2018,
+        "category": [
+            "Internacional"
+            
+        ],
+        "organizer": "Russia",
+        "country": "Russia",
+        "location":"Batumi, Russia",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Olimpiadas.RelatórioGeral.pdf"
+            },
+            {
+                "name": "Classificao Moz Masc",
+                "src": "2018/2018.Olimpiadas.Masculinos.pdf"
+            },
+            {
+                "name": "Classificao Moz Fem",
+                "src": "2018/2018.Olimpiadas.Femininos.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr400236.aspx?lan=1&art=1&turdet=YES",
+        "totalPlayers": 150,
+        "notes": "Torneio de alto nivel de competição, com participação de varíos Grandes Mestres"
+    },
+    {
         "name": "2018 Capablanca RR B",
         "date":"2018-05-01",
         "year": 2018,
