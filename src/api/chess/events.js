@@ -1,11 +1,35 @@
 const Events =[
     {
+        "name": "2017 Phela-Live Chess Challenge Prestige",
+        "year": 2017,
+        "Category": [
+            "Open",
+            "Seniores"         
+        ],
+        "organizer": "Swaziland",
+        "country": "Swaziland",
+        "location":"Manzini, Swaziland",
+        "chiefdelegation":"Alice, Mateus Viageiro",
+        "choach":"Alice, Mateus Viageiro",
+        "chiefArbiter":"",
+        "arbiter":[],
+        "Reports": [
+            {
+                "Name": "Classificação",
+                "src": "2017/2017.Open.Phela-LiveChessPrestige.pdf"
+            }
+        ],
+        "chessResults": "http://chess-results.com/tnr280270.aspx?lan=10&art=1&turdet=YES&flag=30",
+        "totalPlayers": 35,
+        "notes": "Mateus Viageiro Venceu o torneio"
+    },
+    {
         "name": "Mundial Sub-16 India",
         "year": 2017,
         "Category": [
+            "Massificação",
             "Sub-16",
-            "Mundial",
-            "Massificação"
+            "Mundial"           
         ],
         "organizer": "FMX",
         "country": "Moçambique",
@@ -15,6 +39,10 @@ const Events =[
         "chiefArbiter":"",
         "arbiter":[],
         "Reports": [
+            {
+                "Name": "Classificação",
+                "src": "2017/2017.Word.Youth16Individual.pdf"
+            },
             {
                 "Name": "Comunicado",
                 "src": "2017/2017.Mundial.Sub16_India.Comunicado.pdf"
@@ -57,9 +85,10 @@ const Events =[
         "year": 2017,
         "date":"2017-08-09",
         "category": [
+            "Massificação",
             "Sub 16",
             "Internacional",
-            "Massificação"
+            
         ],
         "organizer": "FMX",
         "country": "Moçambique (Moz)",
@@ -238,6 +267,114 @@ const Events =[
         "chessResults": "https://chess-results.com/tnr343779.aspx?lan=1&art=4&turdet=YES",
         "totalPlayers": 24,
         "notes": "Fou um campeonado bem disputado, o Donaldo terminou a 1 ponto do primeiro lugar"
+    },
+    {
+        "name": "2018 BMI Lesotho Open Chess Championships Prestige Section",
+        "date":"2018-02-04",
+        "year": 2018,
+        "category": [
+            "Internacional",
+            "Séniores"
+        ],
+        "organizer": "Chess Federation of Lesotho",
+        "country": "Lesotho",
+        "location":"Maseru",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Open.BMILesothoOpenPrestige.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr325898.aspx?lan=1&art=4&turdet=YES&flag=30",
+        "totalPlayers": 36,
+        "notes": "Donaldo terminou em 2 lugar, partipamos no evento com 4 atletas"
+    },
+    {
+        "name": "2018 BMI Lesotho Open Chess Championships Prestige Section",
+        "date":"2018-02-04",
+        "year": 2018,
+        "category": [
+            "Internacional",
+            "Séniores"
+        ],
+        "organizer": "Chess Federation of Lesotho",
+        "country": "Lesotho",
+        "location":"Maseru",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Open.BMILesothoOpenPrestige.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr325898.aspx?lan=1&art=4&turdet=YES&flag=30",
+        "totalPlayers": 36,
+        "notes": "Donaldo terminou em 2 lugar, partipamos no evento com 4 atletas"
+    },
+    {
+        "name": "2018 BMI Lesotho Open Chess Championships Open Section",
+        "date":"2018-02-04",
+        "year": 2018,
+        "category": [
+            "Massificação",
+            "Internacional",
+            "Femininos",
+            "Infantil"
+        ],
+        "organizer": "Chess Federation of Lesotho",
+        "country": "Lesotho",
+        "location":"Maseru",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Open.BMILesothoOpenChampionships.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr327725.aspx?lan=1&art=25&fedb=MOZ&turdet=YES&flag=30",
+        "totalPlayers": 67,
+        "notes": "Moçambique participou com 5 atletas sendo 1 feminia e 4 infanto-juvenil, tendo adquerido rodagem nacional e rating internacional"
+    },
+    {
+        "name": "2018 Capablanca RR B",
+        "date":"2018-05-01",
+        "year": 2018,
+        "category": [
+            "Massificação",
+            "Internacional",
+            "Sub-16"
+        ],
+        "organizer": "RSA",
+        "country": "South Africa ( RSA )",
+        "location":"The Maslow Time Square Hotel, 209 Aramist Ave, Menlyn, Pretoria",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Internacional.CapablancaRRB.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr343779.aspx?lan=1&art=4&turdet=YES",
+        "totalPlayers": 10,
+        "notes": "Fou um campeonado bem disputado, o Donaldo terminou a 1 ponto do primeiro lugar"
+    },
+    {
+        "name": "2018 Capablanca RR Master",
+        "date":"2018-05-01",
+        "year": 2018,
+        "category": [
+            "Internacional",
+            "Séniores"
+        ],
+        "organizer": "RSA",
+        "country": "South Africa ( RSA )",
+        "location":"The Maslow Time Square Hotel, 209 Aramist Ave, Menlyn, Pretoria",        
+        "Reports": [
+            {
+                "name": "Relatiro",
+                "src": "2018/2018.Internacional.CapablancaRRMaster.pdf"
+            }
+        ],
+        "chessResults": "https://chess-results.com/tnr343779.aspx?lan=1&art=4&turdet=YES",
+        "totalPlayers": 10,
+        "notes": "Donaldo terminou em 2 lugar"
     },
     {
         "name": "Campeonato Regional Norte Senior Masculino",
