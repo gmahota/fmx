@@ -134,15 +134,14 @@ export default {
     columns: [
       { label: "Ano", field: "year" },
       { label: "Nome", field: "name" },
-      { label: "Categoria", field: "Category" },
+      { label: "Categoria", field: "category" },
       { label: "Pais", field: "country" },
       { label: "Local", field: "location" },
       { label: "Chefe Delegação", field: "chiefdelegation" },
       { label: "Treinador", field: "choach" },
-      { label: "Arbitro", field: "arbiter" },
       { label: "Total Participantes", field: "totalPlayers" },
       { label: "Chess Results", field: "chessResults" },
-      { label: "Notas", field: "notes" },
+      { label: "Notas", field: "notes" }
     ]
   }),
   methods: {
@@ -151,7 +150,7 @@ export default {
     },
     editItem(value) {},
     deleteItem(value) {},
-        close() {
+    close() {
       this.dialog = false;
 
       //Reset form
@@ -184,7 +183,16 @@ export default {
 
     async initData() {
       this.loading = !this.loading;
-      this.users = Events;
+      this.users = [];
+      const items = this.users ;
+
+      $.each(Events, function(key, value) {
+        value.category = value.Category.join();
+        items.push(value);
+      });
+
+      console.log(this.users);
+
       this.loading = !this.loading;
     }
   },

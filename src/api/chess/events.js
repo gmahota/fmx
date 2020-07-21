@@ -84,7 +84,7 @@ const Events =[
         "name": "Zone 4.3 Youth Under-16 Team Chess Championships",
         "year": 2017,
         "date":"2017-08-09",
-        "category": [
+        "Category": [
             "Massificação",
             "Sub 16",
             "Internacional",
@@ -116,7 +116,7 @@ const Events =[
         "name": "Campeonato Nacional Juniores",
         "date":"2017-11-02",
         "year": 2017,
-        "category": [
+        "Category": [
             "Júniores",
             "Nacional"
         ],
@@ -140,7 +140,7 @@ const Events =[
         "name": "Campeonato Nacional Senior Liga B Masculino ",
         "date":"2017-11-27",
         "year": 2017,
-        "category": [
+        "Category": [
             "Seniores",
             "Liga B"
         ],
@@ -164,7 +164,7 @@ const Events =[
         "name": "Campeonato Nacional Senior Liga A Masculino ",
         "date":"2018-01-10",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Liga A"
         ],
@@ -196,7 +196,7 @@ const Events =[
         "name": "Campeonato Nacional Senior Feminino",
         "date":"2018-01-10",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Feminino"
         ],
@@ -224,7 +224,7 @@ const Events =[
         "name": "Zone 4.3 Individual Chess Championships - Open Section",
         "date":"2018-04-14",
         "year": 2018,
-        "category": [
+        "Category": [
             "Zone 4.3",
             "Internacional"
         ],
@@ -248,7 +248,7 @@ const Events =[
         "name": "Zone 4.3 Individual Chess Championships - Women Section",
         "date":"2018-04-14",
         "year": 2018,
-        "category": [
+        "Category": [
             "Zone 4.3",
             "Internacional"
         ],
@@ -272,7 +272,7 @@ const Events =[
         "name": "2018 BMI Lesotho Open Chess Championships Prestige Section",
         "date":"2018-02-04",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional",
             "Séniores"
         ],
@@ -293,7 +293,7 @@ const Events =[
         "name": "2018 BMI Lesotho Open Chess Championships Prestige Section",
         "date":"2018-02-04",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional",
             "Séniores"
         ],
@@ -314,7 +314,7 @@ const Events =[
         "name": "2018 BMI Lesotho Open Chess Championships Open Section",
         "date":"2018-02-04",
         "year": 2018,
-        "category": [
+        "Category": [
             "Massificação",
             "Internacional",
             "Femininos",
@@ -337,7 +337,7 @@ const Events =[
         "name": "2018 Boardwalk Pearson Open ( IM Norm)",
         "date":"2018-03-18",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional"
             
         ],
@@ -358,7 +358,7 @@ const Events =[
         "name": "Commonwealth Chess Championships 2018 OPEN",
         "date":"2018-07-03",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional"
             
         ],
@@ -379,7 +379,7 @@ const Events =[
         "name": "2018 Eswatini Open Women Section",
         "date":"2018-12-02",
         "year": 2018,
-        "category": [
+        "Category": [
             "Open",
             "Femininos"
         ],
@@ -400,7 +400,7 @@ const Events =[
         "name": "2018 Eswatini Open Open Section",
         "date":"2018-12-02",
         "year": 2018,
-        "category": [
+        "Category": [
             "Open",
             "Seniores"
         ],
@@ -421,7 +421,7 @@ const Events =[
         "name": "OLIMPIADAS DE XADREZ-GEÓRGIA Batumi 2018",
         "date":"2018-10-05",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional"
             
         ],
@@ -450,7 +450,7 @@ const Events =[
         "name": "2018 Capablanca RR B",
         "date":"2018-05-01",
         "year": 2018,
-        "category": [
+        "Category": [
             "Massificação",
             "Internacional",
             "Sub-16"
@@ -472,7 +472,7 @@ const Events =[
         "name": "2018 Capablanca RR Master",
         "date":"2018-05-01",
         "year": 2018,
-        "category": [
+        "Category": [
             "Internacional",
             "Séniores"
         ],
@@ -493,7 +493,7 @@ const Events =[
         "name": "Campeonato Regional Norte Senior Masculino",
         "date":"2018-06-08",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -517,7 +517,7 @@ const Events =[
         "name": "Campeonato Regional Norte Junior Masculino",
         "date":"2018-06-08",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -541,7 +541,7 @@ const Events =[
         "name": "Campeonato Regional Senior Feminino Norte",
         "date":"2018-06-08",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -565,7 +565,7 @@ const Events =[
         "name": "Campeonato Regional Norte Senior Masculino",
         "date":"2018-06-01",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -589,7 +589,7 @@ const Events =[
         "name": "Campeonato Regional Centro Junior Masculino",
         "date":"2018-06-23",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -613,7 +613,7 @@ const Events =[
         "name": "Campeonato Regional Senior Feminino Centro",
         "date":"2018-06-23",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Regional"
         ],
@@ -637,7 +637,7 @@ const Events =[
         "name": "BCI Moçambique Open - Woman Section",
         "date":"2018-09-14",
         "year": 2018,
-        "category": [
+        "Category": [
             "Wonam",
             "Open"
         ],
@@ -665,7 +665,7 @@ const Events =[
         "name": "BCI Moçambique Open",
         "date":"2018-06-23",
         "year": 2018,
-        "category": [
+        "Category": [
             "Open"
         ],
         "organizer": "FMX",
@@ -692,7 +692,7 @@ const Events =[
         "name": "Campeonato Nacional Senior Liga B Masculino ",
         "date":"2018-12-15",
         "year": 2018,
-        "category": [
+        "Category": [
             "Seniores",
             "Liga B"
         ],
@@ -720,7 +720,7 @@ const Events =[
         "name": "Campeonato Nacional Infantil Feminino",
         "date":"2018-12-15",
         "year": 2018,
-        "category": [
+        "Category": [
             "Infantil",
             "Feminino",
             "Massificação"
@@ -749,7 +749,7 @@ const Events =[
         "name": "Campeonato Nacional Infantil Masculino",
         "date":"2018-12-15",
         "year": 2018,
-        "category": [
+        "Category": [
             "Infantil",
             "Masculino",
             "Massificação"
@@ -778,7 +778,7 @@ const Events =[
         "name": "Campeonato Nacional Juvenil",
         "date":"2018-12-15",
         "year": 2018,
-        "category": [
+        "Category": [
             "Juvenil"
         ],
         "organizer": "FMX",
@@ -805,7 +805,7 @@ const Events =[
         "name": "Campeonato Nacional Junior",
         "date":"2019-02-13",
         "year": 2019,
-        "category": [
+        "Category": [
             "Junior"
         ],
         "organizer": "FMX",
@@ -828,7 +828,7 @@ const Events =[
         "name": "Campeonato Nacional Junior",
         "date":"2019-02-13",
         "year": 2019,
-        "category": [
+        "Category": [
             "Junior"
         ],
         "organizer": "FMX",
@@ -851,7 +851,7 @@ const Events =[
         "name": "4th Eswatini Chess Open Open Section",
         "date":"2019-12-01",
         "year": 2019,
-        "category": [
+        "Category": [
             "Open",
             "Femininos",
             "Juvenil"
@@ -873,7 +873,7 @@ const Events =[
         "name": "Eswatini Chess Open Prestige Section",
         "date":"2019-12-01",
         "year": 2019,
-        "category": [
+        "Category": [
             "Open",
             "Femininos",
             "Juvenil"
@@ -895,7 +895,7 @@ const Events =[
         "name": "Campeonato Nacional Liga B",
         "date":"2020-03-19",
         "year": 2020,
-        "category": [
+        "Category": [
             "Junior"
         ],
         "organizer": "FMX",
@@ -918,7 +918,7 @@ const Events =[
         "name": "Campeonato Nacional Juvenil",
         "date":"2018-12-15",
         "year": 2018,
-        "category": [
+        "Category": [
             "Juvenil"
         ],
         "organizer": "FMX",
@@ -945,7 +945,7 @@ const Events =[
         "name": "2019 Zone 4.3 Chess Championship (Open)",
         "date":"2019-05-04",
         "year": 2019,
-        "category": [
+        "Category": [
             "Seniores"
         ],
         "organizer": "FMJE",
@@ -960,13 +960,12 @@ const Events =[
         "chessResults": "https://chess-results.com/tnr435736.aspx?lan=1&art=4&turdet=YES",
         "totalPlayers": 16,
         "notes": ""
-    }
-    ,
+    },
     {
         "name": "International Chess Tournament - Luanda - SADC",
         "date":"2019-11-11",
         "year": 2019,
-        "category": [
+        "Category": [
             "Seniores",
             "Internacional"
         ],
