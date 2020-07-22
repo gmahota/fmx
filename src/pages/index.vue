@@ -2,18 +2,18 @@
   <div>
     <hero />
     <about />
-    <theme-features />
+    <!--<theme-features />
     <features />
     <contact-us />
     <affiliates />
 
     <Features-Cursos/>
     <newsletter />
-    <!-- <social-media />, -->
+     <social-media />, 
     <keep-in-touch />
-    
-    <!-- <pro-features /> -->
-    <info />,
+    -->
+    <!-- <pro-features /> 
+    <info />,-->
   </div>
 </template>
 

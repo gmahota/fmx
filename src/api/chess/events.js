@@ -985,7 +985,7 @@ const Events =[
 ];
 
 const getEventByName = (name) => {
-    return (name === undefined) ? Events[0] : Event.find(x => x.name ===name);
+    return (name === undefined) ? Events[0] : Events.find(x => x.name ===name);
   };
   
   const getEvent = (limit) => {
