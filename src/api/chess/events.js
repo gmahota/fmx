@@ -1,5 +1,28 @@
 const Events =[
     {
+        "name": "2017 Mundial de Brazil",
+        "year": 2017,
+        "Category": [
+            "Mundial",
+            "Sub-16"         
+        ],
+        "organizer": "Brazil",
+        "country": "Brazil",
+        "location":"Brazil",
+        "chiefdelegation":"Alice, Mateus Viageiro",
+        "choach":"Alice, Mateus Viageiro",        
+        "arbiter":[],
+        "Reports": [
+            {
+                "Name": "Relatorio",
+                "src": "2017/2017.Word.mundialdebrazil.relatório.pdf"
+            }
+        ],
+        "chessResults": "",
+        "totalPlayers": 35,
+        "notes": ""
+    },
+    {
         "name": "2017 Phela-Live Chess Challenge Prestige",
         "year": 2017,
         "Category": [
